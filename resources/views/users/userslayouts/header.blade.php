@@ -22,7 +22,7 @@
       <a class="nav-link" href="myattendance">My Attendance</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="myleaves">My Leaves</a>
+      <a class="nav-link" style="display:none" href="myleaves">My Leaves</a>
     </li>
   </ul>
   <ul class="navbar-nav ml-auto  float-right">

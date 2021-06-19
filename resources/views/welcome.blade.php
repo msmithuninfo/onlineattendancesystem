@@ -81,18 +81,19 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                <h1>Online Attendance System</h1>
+                    <h3>Name: Rabiullah</h3>
+                    <h3>ID: 2017100000078</h3>
+                    <br>
+                    <h3>Name: Rabiullah</h3>
+                    <h3>ID: 2017100000078</h3>
+                    <br>
+                    <h3>Name: Rabiullah</h3>
+                    <h3>ID: 2017100000078</h3>
                 </div>
             </div>
         </div>

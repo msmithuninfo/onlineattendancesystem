@@ -52,7 +52,7 @@
                     </ul>
                 </li>
                  <li data-username="dashboard Default Ecommerce CRM Analytics Crypto Project" class="nav-item">
-                    <a href="manageleaves" class="nav-link "><span class="pcoded-micon"><i class="feather icon-index"></i></span><span class="pcoded-mtext">Leaves</span></a>
+                    <a href="manageleaves" style="display:none" class="nav-link "><span class="pcoded-micon"><i class="feather icon-index"></i></span><span class="pcoded-mtext">Leaves</span></a>
                 </li>
                  <li data-username="dashboard Default Ecommerce CRM Analytics Crypto Project" class="nav-item">
                     <a href="manageattendance" class="nav-link "><span class="pcoded-micon"><i class="feather icon-calendar"></i></span><span class="pcoded-mtext">Attendance</span></a>

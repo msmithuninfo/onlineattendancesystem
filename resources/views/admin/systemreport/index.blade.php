@@ -16,7 +16,7 @@
                         Absents
                         <span class="badge badge-pill badge-light p-2 ">{{$absents}}</span>
                         </label>
-                        <label href="#" class="btn btn-outline-secondary pull-right p2">
+                        <label style="display:none" href="#" class="btn btn-outline-secondary pull-right p2">
                         Leaves
                         <span class="badge badge-pill badge-light p-2 ">{{$leaves}}</span>
                         </label>

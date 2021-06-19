@@ -29,7 +29,7 @@
 									<option>{{ Auth::user()->id }}</option>
 								</select>
 								<button  type="submit" class="btn btn-success " name="status" value="present">Mark Attendance</button>
-								<a href="requestleave" class="btn btn-warning">Request Leave</a>
+								<a href="requestleave" style="display:none" class="btn btn-warning">Request Leave</a>
 								<a href="myattendance" class="btn btn-dark">view Attendance</a>
 							</form>
 						</td>

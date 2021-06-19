@@ -50,8 +50,6 @@
             </div>
         </div>
     </div>
-    <!-- [ Hover-table ] start -->
-    
-    <!-- [ Hover-table ] end -->
+
     
     @endsection

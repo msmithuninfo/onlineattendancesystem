@@ -7,7 +7,7 @@
             <div class="card-header">
                 <h1><i class="fa fa-users"></i> Manage Attendance
                 <section class="float-right">
-                     <a href="{{ route('manageleaves.index') }}" class="btn btn-outline-success pull-right">Leaves</a>
+                     <a style="display:none" href="{{ route('manageleaves.index') }}" class="btn btn-outline-success pull-right">Leaves</a>
                     <a href="{{ route('manageattendance.index') }}" class="btn btn-outline-secondary pull-right">Attendance</a>
                     <a href="{{ route('users.create') }}" class="btn btn-outline-primary">Add User</a>
                 </section>
@@ -37,7 +37,7 @@
                 <input type="hidden" name="_method" value="PATCH">
                                 <td><button type="submit" name="update" class="btn btn-danger rounded-pill" value="absent">Mark Absent</button>
                                     <button type="submit" name="update" class="btn btn-info " value="present">Mark Present</button>
-                                    <button type="submit" name="update" class="btn btn-warning " value="leave">Mark Leave</button>
+                                    <button style="display:none" type="submit" name="update" class="btn btn-warning " value="leave">Mark Leave</button>
                                 </td>
                             </form>
                             </tr>
